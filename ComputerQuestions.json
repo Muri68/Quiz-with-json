@@ -1,0 +1,44 @@
+{
+"exam":[
+  {
+    "question": "Q1. LAN stands for...",
+    "a": "Location access network",
+    "b": "Local anti network",
+    "c": "Local area network",
+    "d": "Location area network",
+    "answer": "c"
+  },
+  {
+    "question": "A _______ is a group of independent computers attached to one another through communication media.?",
+    "a": "Internet",
+    "b": "E-mail",
+    "c": "Network",
+    "d": "All of the Above",
+    "answer": "c"
+  },
+  {
+    "question": "What is the short cut key for Print a Document??",
+    "a": "Alt + P",
+    "b": "Ctrl + P",
+    "c": "Shift + P",
+    "d": "Ctrl + Alt + P",
+    "answer": "b"
+  },
+  {
+    "question": "WAN stands for?",
+    "a": "Wide area network",
+    "b": "World area network",
+    "c": "Wonder area network",
+    "d": "None of these",
+    "answer": "a"
+  },
+  {
+    "question": "Fourth layer of OSI reference model is",
+    "a": "Physical layer",
+    "b": "Data link layer",
+    "c": "Network layer",
+    "d": "Transport layer",
+    "answer": "d"
+  }
+]
+}

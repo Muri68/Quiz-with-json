@@ -1,0 +1,44 @@
+{
+"maths":[
+  {
+    "question": "Q1. 2 X 11 = ?",
+    "answer": "22"
+  },
+  {
+    "question": "Q2. 120/6 = ?",
+    "answer": "20"
+	},
+	{
+    "question": "Q3. 1. 99 - 9 = ?",
+    "answer": "90"
+  },
+  {
+    "question": "Q4. 1. 10 x 1 = ?",
+    "answer": "10"
+  },
+  {
+    "question": "Q05.  How many sides of equal length does a square have?",
+	"answer": "4"
+  },
+  {
+    "question": "Q6. 65 – 43 = ?",
+    "answer": "22"
+  },
+  {
+    "question": "Q7. 5 to the power of 0 equals what?",
+	"answer": "1"
+  },
+  {
+    "question": "Q8. 7 x 9 = ?",
+    "answer": "63"
+  },
+  {
+    "question": "Q09. What does 3 squared equal?",
+	"answer": "3"
+  },
+  {
+    "question": "Q10. 491 ÷ 9 = ?",
+    "answer": " 54 r5"
+  }
+]
+}

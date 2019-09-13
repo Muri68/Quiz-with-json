@@ -1,0 +1,84 @@
+{
+"true_or_false":[
+  {
+    "question": "Q1. Electrons are larger than molecules.",
+    "answer": "False"
+  },
+  {
+    "question": "Q2. The Atlantic Ocean is the biggest ocean on Earth.",
+    "answer": "False"
+	},
+	{
+    "question": "Q3.  The chemical make up food often changes when you cook it.",
+    "answer": "True"
+  },
+  {
+    "question": "Q4. Sharks are mammals.",
+    "answer": "False"
+  },
+  {
+    "question": "Q5.  The human body has four lungs.",
+	"answer": "False"
+  },
+  {
+    "question": "Q6. Atoms are most stable when their outer shells are full.",
+    "answer": "True"
+  },
+  {
+    "question": "Q7. Filtration separates mixtures based upon their particle size.?",
+	"answer": "True"
+  },
+  {
+    "question": "Q8. Venus is the closest planet to the Sun.",
+    "answer": "False"
+  },
+  {
+    "question": "Q9. Conductors have low resistance.",
+	"answer": "True"
+  },
+  {
+    "question": "Q10. Molecules can have atoms from more than one chemical element.",
+    "answer": "True"
+  },
+  {
+    "question": "Q11. Water is an example of a chemical element.",
+    "answer": "False"
+  },
+  {
+    "question": "Q12. The study of plants is known as botany.",
+    "answer": "True"
+	},
+	{
+    "question": "Q13.  ount Kilimanjaro is the tallest mountain in the world.",
+    "answer": "False"
+  },
+  {
+    "question": "Q14. Floatation separates mixtures based on density.",
+    "answer": "True"
+  },
+  {
+    "question": "Q15.  Herbivores eat meat",
+	"answer": "False"
+  },
+  {
+    "question": "Q16. Atomic bombs work by atomic fission.",
+    "answer": "True"
+  },
+  {
+    "question": "Q17.Molecules are chemically bonded.?",
+	"answer": "True"
+  },
+  {
+    "question": "Q18. Spiders have six legs.",
+    "answer": "False"
+  },
+  {
+    "question": "Q19. Kelvin is a measure of temperature.",
+	"answer": "True"
+  },
+  {
+    "question": "Q20. The human skeleton is made up of less than 100 bones.",
+    "answer": "False"
+  }
+]
+}
